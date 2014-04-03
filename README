@@ -1,0 +1,9 @@
+EZ DB Tool:
+
+* Read, define, modify, or repair operating parameters from a config file.
+    
+* Open an ODBC connection and create a cursor object.
+    
+* Execute arbitrary SQL statements from text files.
+    
+* Write output from SQL operation to a CSV file.
